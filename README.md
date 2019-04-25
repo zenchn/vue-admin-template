@@ -1,29 +1,19 @@
-# vue-admin-zenchn
+# vue-admin-template
 
-## Project setup
-```
-npm install
-```
+> Vue后台管理系统目录架构：基于vue-cli3 & webpack4
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 新特性
+- 性能提升
+- 支持TypeScript
+- 更完善的公共方法封装
+- 更多自定义组件
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 功能
+- 登录
+- 菜单权限控制（根据路由表）
+- 菜单权限控制（根据角色）
+- 按钮权限控制 
+- Table Example
+- Form Example
+- Chart Example
+- Map Example
